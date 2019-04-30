@@ -3,9 +3,24 @@
 ## 29ffm1dn_jp.xls
 
 内閣府「国民経済計算」  
+国民経済計算 > 国内総生産（支出側）> デフレーター > 年度
+
+<https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/h29/h29_kaku_top.html>
+
+## 29ffm1n_jp.xls
+
+内閣府「国民経済計算」  
+国民経済計算 > 国民所得・国民可処分所得の分配 > 名目 > 年度
+
+<https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/h29/h29_kaku_top.html>
+
+## 29ffm2_jp.xls
+
+内閣府「国民経済計算」  
 国民経済計算 > 国内総生産（支出側）> 名目 > 年度
 
 <https://www.esri.cao.go.jp/jp/sna/data/data_list/kakuhou/files/h29/h29_kaku_top.html>
+
 
 ## 29qom1rn_jp.xls
 
