@@ -8,7 +8,7 @@ plot_many_graphs <- function(path, x, Ymat) {
        ylim = c(-0.2, 5), lwd = 2)
   
   for (i in seq_along(U)) {
-    lines(x[Ymat[, i] <= 5], Ymat[, i][Ymat[, i] <= 5], lwd = 2, col = "gray50")
+    lines(x[Ymat[, i] <= 5], Ymat[, i][Ymat[, i] <= 5], lwd = 2, col = "gray40")
   }
   
   arrows(0, 0, 5, 0, xpd = TRUE, lwd = 2, length = 0.1)

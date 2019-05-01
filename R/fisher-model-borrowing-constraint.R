@@ -15,7 +15,7 @@ plot(NULL, axes = FALSE, xlab = "", ylab = "", xlim = c(-0.2, 5.1), ylim = c(-0.
 lines(x[y1 <= 5], y1[y1 <= 5], lwd = 2)
 lines(x[y2 <= 5], y2[y2 <= 5], lwd = 2)
 
-polygon(c(0, x[b >= 0 & x <= 1], 1), c(0, b[b >= 0 & x <= 1], 0), col = "gray90", lty = 0)
+polygon(c(0, x[b >= 0 & x <= 1], 1), c(0, b[b >= 0 & x <= 1], 0), col = "gray70", lty = 0)
 lines(x[b >= 0], b[b >= 0], lwd = 2)
 
 

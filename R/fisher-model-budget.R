@@ -9,7 +9,7 @@ par(mai = c(0.28, 0.35, 0.28, 0.28),
 
 plot(NULL, axes = FALSE, xlab = "", ylab = "", xlim = c(-0.2, 5.1), ylim = c(-0.2, 5), lwd = 2)
 
-polygon(c(x[b >= 0], 0), c(b[b >= 0], 0), col = "gray90")
+polygon(c(x[b >= 0], 0), c(b[b >= 0], 0), col = "gray70")
 lines(x[b >= 0], b[b >= 0], lwd = 2)
 
 points(3, 1, pch = 16)
