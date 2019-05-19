@@ -37,6 +37,18 @@
 <https://www.stat.go.jp/data/kakei/sokuhou/tsuki/index.html#nen>
 
 
+## md01_m_1
+
+日本銀行「主要時系列統計データ表（マネタリーベース）」
+<http://www.stat-search.boj.or.jp/ssi/mtshtml/md01_m_1.html>
+
+
+## md02_m_1
+
+日本銀行「主要時系列統計データ表（マネーストック）」
+<http://www.stat-search.boj.or.jp/ssi/mtshtml/md02_m_1.html>
+
+
 ## pwt_petit.csv
 
 Penn World Table (https://www.rug.nl/ggdc/productivity/pwt/) より一部データを抽出したもの。詳細は利用している各コードを参照
